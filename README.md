@@ -6,7 +6,7 @@ python套件mediapipe影像辨識測試
 
 Requirenment：pytohn3.8.10
 
-# S
+# Setup
 
 sudo apt-get install python-opencv
 
